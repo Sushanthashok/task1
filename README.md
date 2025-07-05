@@ -1,2 +1,2 @@
 # TASK1
-Cognifyz Internship
+Cognifyz InternshiP
